@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="title">BMI computer</string>
+    <string name="Heighttips">Please input your height(m)</string>
+    <string name="Weighttips">Please input your weight(kg)</string>
+    <string name="compute">compute</string>
+    <string name="bmihint">Your BMI is</string>
+    <string name="statehint">Your health state is</string>
+</resources>

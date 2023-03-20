@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name='title'>BMI 计算器</string>
+    <string name='Heighttips'>请输入身高(米)</string>
+    <string name="Weighttips">请输入体重(kg)</string>
+    <string name="compute">计算</string>
+    <string name="bmihint">您的BMI指数为</string>
+    <string name="statehint">您的健康状态为</string>
+</resources>
